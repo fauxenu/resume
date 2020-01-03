@@ -1,0 +1,59 @@
+{
+  "contact": {
+    "name": "Bryan Hilmer",
+    "email": "bhilmer@gmail.com",
+    "phone": "(253) 948-6584",
+    "position": "Senior Web Developer"
+  },
+  "skills": {
+    "languages": ["Javascript", "HTML5 / CSS3", "Java", "Scala"],
+    "frameworks": ["React", "Angular", "Backbone", "Play! Framework"],
+    "technologies": ["Node.js", "Webpack", "Git", "Docker"]
+  },
+  "experience": [
+    {
+      "company": "Stella & Dot",
+      "title": "Senior Web Developer",
+      "start": "2016",
+      "end": "present",
+      "environment": ["Angular", "Backbone/Marionette", "Ruby/Rails", "MySQL"],
+      "feats": [
+        "Developed an Angular-based quiz module to create a personalized product collection for each user",
+        "Implemented a streamlined build process using Webpack to improve build times and reduce bundle size",
+        "Updated legacy codebase to latest ES6 standards and added Babel transpiling for backwards-compatibility"
+      ]
+    },
+    {
+      "company": "Intrepid Learning",
+      "title": "Web Developer",
+      "start": "2012",
+      "end": "2016",
+      "environment": ["Backbone/Marionette", "Play! Framework", "Java/Scala", "MongoDB"],
+      "feats": [
+        "Developed a modular, component-based UI and CMS using Backbone, Marionette, and Twitter Bootstrap",
+        "Built a RESTful API layer to send and consume data from an existing Java-based platform",
+        "Standardized sprawling CSS structure using SMACSS best practices and organization principles"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Lead Web Developer",
+      "start": "2006",
+      "end": "2012",
+      "environment": ["jQuery", "ColdFusion", "Java", "Oracle"],
+      "feats": [
+        "Built a custom, event driven MVC framework using Java and Adobe Coldfusion",
+        "Created a jQuey-based UI toolkit and Javascript framework",
+        "Designed, implemented, and tested a modern HTML5 front-end and CMS that scaled from IE6 to modern browsers"
+      ]
+    }
+  ],
+  "education": {
+    "school": "Eastern Washington Univeristy",
+    "city": "Cheney",
+    "state": "Washington",
+    "degree": "Bachelor of Arts (Computer Science)",
+    "enrolled": "2002",
+    "graduated": "2006"
+  }
+}

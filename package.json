@@ -2,7 +2,19 @@
 	"name": "resume",
 	"version": "1.0.0",
 	"description": "My resume",
-	"dependencies": {
-		"markdown-resume": "~0.1.0"
-	}
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fauxenu/resume.git"
+  },
+  "private": false,
+  "engines": {
+    "node": ">= 6"
+  },
+  "author": "Bryan Hilmer",
+  "main": "scr/index.js",
+  "devDependencies": {
+    "eslint": "~4.5.0",
+    "eslint-plugin-import": "~2.7.0",
+    "eslint-config-airbnb-base": "~11.3.2"
+  }
 }
