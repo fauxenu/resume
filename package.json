@@ -13,7 +13,7 @@
   "author": "Bryan Hilmer",
   "main": "scr/index.js",
   "devDependencies": {
-    "eslint": "~4.5.0",
+    "eslint": "~4.18.2",
     "eslint-plugin-import": "~2.7.0",
     "eslint-config-airbnb-base": "~11.3.2"
   }
